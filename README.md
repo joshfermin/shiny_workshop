@@ -2,7 +2,7 @@ shiny_workshop
 ==============
 
 MakeItHappen R and Shiny workshop from Rally.
--Used R Studio IDE to develop. 
+- Used R Studio IDE to develop. 
 
 To run each app:
 - Clone this repo and cd to the root directory.
